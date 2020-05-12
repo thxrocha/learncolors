@@ -1,0 +1,17 @@
+{
+  "name": "learncolors",
+  "displayName": "learncolors",
+  "expo": {
+    "name": "learncolors",
+    "slug": "learncolors",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
